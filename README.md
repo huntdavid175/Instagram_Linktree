@@ -1,1 +1,1 @@
-An Instagram LinkTree sample ugit sing HTML/CSS
+An Instagram LinkTree sample using HTML/CSS
