@@ -9,6 +9,7 @@ body {
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     min-height: 100vh;
+    /* overflow: hidden; */
 }
 
 .profile_pic{
@@ -40,6 +41,12 @@ a{
     text-decoration: none;
     font-size: 16px;
     font-weight: normal;
+}
+
+a:hover {
+    background: #fff;
+    color: darkblue;
+    transition: 600ms all ease-in;
 }
 
 .social_links {
